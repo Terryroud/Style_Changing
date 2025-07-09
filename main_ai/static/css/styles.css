@@ -1,0 +1,89 @@
+/* Основные стили */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 2rem;
+}
+
+/* Заголовок */
+h1.text-center {
+    margin-bottom: 1.5rem;
+}
+
+/* Контейнеры для изображений */
+.image-container {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.image-preview {
+    max-width: 100%;
+    max-height: 300px;
+    margin-top: 10px;
+    border: 2px dashed #ccc;
+    padding: 5px;
+}
+
+#resultImage {
+    max-width: 100%;
+    max-height: 400px;
+    border: 2px solid #4CAF50;
+}
+
+/* Области для загрузки */
+.upload-area {
+    border: 2px dashed #ddd;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.upload-area:hover {
+    background: #f9f9f9;
+}
+
+/* Скрытые элементы */
+.hidden {
+    display: none;
+}
+
+/* Индикатор загрузки */
+.loading {
+    display: none;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.spinner {
+    border: 5px solid #f3f3f3;
+    border-top: 5px solid #3498db;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite;
+    margin: 0 auto;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Кнопки и результаты */
+.result-container {
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.btn-lg {
+    padding: 0.5rem 1.5rem;
+    font-size: 1.25rem;
+}
+
+.mt-3 {
+    margin-top: 1rem;
+}
