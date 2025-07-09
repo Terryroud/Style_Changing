@@ -8,4 +8,5 @@ bin-release/
 .idea/
 stylechanging/settings.py
 *.env
+stylechanging/__pycashe__
 
