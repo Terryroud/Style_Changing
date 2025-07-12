@@ -1,8 +1,3 @@
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
 .settings/
 
 .idea/
@@ -10,9 +5,11 @@ bin-release/
 stylechanging/__pycashe__
 
 stargan/
-stargan_celeba_128/
+#stargan_celeba_128/
 starstargan_celeba_128gan/
 
 ai_model/stargan_celeba_128/logs
 ai_model/stargan_celeba_128/results
+ai_model/__pycashe__
+
 media/
