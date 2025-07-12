@@ -4,5 +4,6 @@ from django.conf.urls.static import static
 from . import views
 
 urlpatterns = [
-    path('main_ai/', views.transfer_style_view, name='main_ai'),
+    path('', views.home, name='home'),
+    path('transfer/', views.transfer_style_view, name='transfer'),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
