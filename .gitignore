@@ -6,7 +6,6 @@ bin-release/
 .settings/
 
 .idea/
-stylechanging/settings.py
 *.env
 stylechanging/__pycashe__
 
