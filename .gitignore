@@ -1,11 +1,17 @@
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
 .settings/
 
 .idea/
-stylechanging/settings.py
-*.env
+.env
+stylechanging/__pycashe__
+
+stargan/
+starstargan_celeba_128gan/
+
+ai_model/stargan_celeba_128/logs
+ai_model/stargan_celeba_128/results
+ai_model/__pycashe__
+
+media/
+staticfiles/
+temp_models/
 
