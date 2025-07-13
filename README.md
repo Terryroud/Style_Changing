@@ -103,14 +103,13 @@ media/results/
 2. Изменение пола с женского на мужской
 3. Омоложение лица
 
-## Цитирование
+## Источник
 
-@inproceedings{choi2018stargan,
-author={Yunjey Choi and Minje Choi and Munyoung Kim and Jung-Woo Ha and Sunghun Kim and Jaegul Choo},
-title={StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation},
-booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-year={2018}
-}
+Этот проект основан на исследовательской работе StarGAN:
+
+- Choi, Y., Choi, M., Kim, M., Ha, J., Kim, S., & Choo, J. (2018). **StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation**. *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*.  
+  [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/abs/1711.09020) 
+  [![arXiv](https://img.shields.io/badge/arXiv-1711.09020-b31b1b)](https://arxiv.org/abs/1711.09020)
 
 ## Контакты
 
