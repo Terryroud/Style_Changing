@@ -1,10 +1,8 @@
-# Style_Changing
-
 # StarGAN Face Attributes Transfer
 
 ## Описание продукта
 
-Это веб-приложение для изменения атрибутов лица с использованием модели StarGAN. Пользователи могут загружать фотографии и применять различные изменения:
+Это веб-приложение для изменения атрибутов лица с использованием дообученной мною модели StarGAN. Пользователи могут загружать фотографии и применять различные изменения:
 - Изменение цвета волос (черные, светлые, каштановые)
 - Изменение пола
 - Изменение возраста
@@ -105,9 +103,14 @@ media/results/
 2. Изменение пола с женского на мужской
 3. Омоложение лица
 
-## Лицензия
+## Цитирование
 
-MIT License
+@inproceedings{choi2018stargan,
+author={Yunjey Choi and Minje Choi and Munyoung Kim and Jung-Woo Ha and Sunghun Kim and Jaegul Choo},
+title={StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation},
+booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+year={2018}
+}
 
 ## Контакты
 
