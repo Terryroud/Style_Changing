@@ -12,3 +12,5 @@ ai_model/stargan_celeba_128/results
 ai_model/__pycashe__
 
 media/
+staticfiles/
+temp_models/

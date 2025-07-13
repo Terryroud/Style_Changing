@@ -140,7 +140,6 @@ class Solver(object):
                     result_filename = f'result_{os.path.basename(self.config.input_image)}'
                     result_path = os.path.join(self.result_dir, result_filename)
                     save_image(self.denorm(x_fake.data.cpu()), result_path, nrow=1, padding=0)
-                    print(f'Saved result to {result_path}')
                     break
 
         return result_path

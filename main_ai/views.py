@@ -39,7 +39,6 @@ def transfer_style_view(request):
 
         upload_dir = os.path.join(settings.MEDIA_ROOT, 'uploads')
         attribute = request.POST.get('attribute')
-        print(attribute)
         gender = request.POST.get('gender', 'male')
         hair_color = request.POST.get('hair_color', 'Black_Hair')
         age = int(request.POST.get('age', 0))
