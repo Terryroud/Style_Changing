@@ -113,5 +113,7 @@ media/results/
 ## Контакты
 
 Для вопросов и предложений:
+
 Почта: kolibri.alia@yandex.ru
+
 Телеграм: @alia_work
