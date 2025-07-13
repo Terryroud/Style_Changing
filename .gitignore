@@ -14,5 +14,3 @@ ai_model/__pycashe__
 media/
 staticfiles/
 temp_models/
-
-images/

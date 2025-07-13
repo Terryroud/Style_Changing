@@ -102,9 +102,9 @@ http://127.0.0.1:8000
 Ниже можно увидеть разницу работы первого и второго вариантов работы модели:
 
 5_attributes:
-![5_attributes](images/photo_2025-07-13_18-06-27.jpg)
+![5_attributes](images/5_attributes.jpg)
 11_attributes:
-![11_attributes](images/photo_2025-07-13_18-05-33.jpg)
+![11_attributes](images/11_attributes.jpg)
 
 ## Источник
 
